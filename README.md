@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Multiverso Geek
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+uma história dos universos do Sonic e do Mário
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT - pra fazer a história e criar o roteiro do podcast
+Vidnoz - pra colocar voz e fazer um vídeo com um avatar  falante 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Quis desde o início fazer uma história que envolvesse dois universos, escolhi sobre o Reino dos Cogumelos e o Planeta Mobius (Mário e Sonic), pedi ao ChatGPT que escrevesse uma história quee o Mária até tentasse salvar a princesa Peach, mas que o Sonic que salvasse ela, logo após pedi ao ChatGPT que incluisse essa história em um roteiro de um podcast do Multiverso geek. Com o roteiro criado, utilizei o Vidnoz para adicionar a voz ao roteiro, e criei um vídeo com uma versão menor da história com um avatar falante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+link do áudio do podcast : https://drive.google.com/file/d/1m4qg3lD6b9-jGTRQWofD74pNhIB5_ila/view?usp=sharing
+link do vídeo do podcast com o avatar falante : https://drive.google.com/file/d/177gxe7s3L2G26-IQgouZcn4VqpOawYKL/view?usp=sharing
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+gostei bastante da experiência, e o presente é a IA, estou ansioso com o que poderemos fazer de útil e benéfico para a sociedade ccom essa tecnologia.
